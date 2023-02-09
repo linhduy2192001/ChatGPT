@@ -52,6 +52,9 @@ body {
 .ai {
   background: #40414f;
 }
+textarea {
+  resize: none;
+}
 
 .chat {
   width: 100%;
